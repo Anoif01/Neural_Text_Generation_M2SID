@@ -30,4 +30,4 @@ cd ./NeuralTextGeneration/src/ <br/>
 python main.py
 
 
-<em> Note : Vous trouver un rapport qui résume le papier original et notre travail</em>
+<em> Note : Vous trouver un rapport, intitulé "DL_Project_2020.pdf", qui résume le papier original et notre travail</em>
