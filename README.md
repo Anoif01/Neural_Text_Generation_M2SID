@@ -32,7 +32,7 @@ Après une analyse sur l'effet de quelques paramètres on a choisi de garder les
 <ul>
     <li>n = 14</li>
     <li>nhu = 256</li>
-    <li>epoch = 25</li>
+    <li>epoch = 21</li>
     <li>Batch size = 32 </li>
     <li>Optimisateur = Adagrad</li>
 </ul>
