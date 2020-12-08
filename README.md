@@ -18,17 +18,24 @@ Ce travail est composé de 2 parties principales:
     <li>Les expérimentations réalisées pour améliorer les performances</li>
 </ol>
 
-<h2>Technologies:</h2>
+<h3>Technologies:</h3>
 <ul>
     <li>python 3.6 ou plus</li>
     <li>Tensorflow 1.x</li>
-    <li>Google Colab Pro</li>
+     <li>Google Colab Pro</li>
 </ul>
 
-<h2>Exécution du projet:</h2>
-Configurez d'abord les chemins globaux.
-cd ./NeuralTextGeneration/src/ <br/>
-python main.py
+<h3>Résultats:</h3>
+
+Après une analyse sur l'effet de quelques paramètres on a choisi de garder les valeurs suivante :
+
+<ul>
+    <li>n = 14</li>
+    <li>nhu = 256</li>
+    <li>epoch = 25</li>
+    <li>Batch size = 32 </li>
+    <li>Optimisateur = Adagrad</li>
+</ul>
 
 
-<em> Note : Vous trouvez un rapport qui résume le papier original et notre travail</em>
+<br /> <em> DL_Project_2020.pdf : Le rapport qui résume le papier original et notre travail.</em>
