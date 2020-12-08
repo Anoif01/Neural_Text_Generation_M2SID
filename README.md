@@ -22,9 +22,11 @@ Ce travail est composé de 2 parties principales:
 <ul>
     <li>python 3.6 ou plus</li>
     <li>Tensorflow 1.x</li>
+    <li>Google Colab Pro</li>
 </ul>
 
 <h2>Exécution du projet:</h2>
+Configurez d'abord les chemins globaux.
 cd ./NeuralTextGeneration/src/ <br/>
 python main.py
 
