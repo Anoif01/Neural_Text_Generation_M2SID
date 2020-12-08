@@ -1,4 +1,3 @@
-# Neural_Text_Generation_M2SID
 <h1>Etude sur le papier : <em> Neural Text Generation from Structured Data with Application to the Biography Domain </em> </h1>
 
 <br />
@@ -30,4 +29,4 @@ cd ./NeuralTextGeneration/src/ <br/>
 python main.py
 
 
-<em> Note : Vous trouver un rapport, intitulé "DL_Project_2020.pdf", qui résume le papier original et notre travail</em>
+<em> Note : Vous trouvez un rapport qui résume le papier original et notre travail</em>
