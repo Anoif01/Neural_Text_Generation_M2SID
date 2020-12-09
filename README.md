@@ -32,10 +32,10 @@ Après une analyse sur l'effet de quelques paramètres on a choisi de garder les
 <ul>
     <li>n = 14</li>
     <li>nhu = 256</li>
-    <li>epoch = 21</li>
+    <li>epoch = 25</li>
     <li>Batch size = 32 </li>
     <li>Optimisateur = Adagrad</li>
 </ul>
 
 
-<br /> <em> DL_Project_2020.pdf : Le rapport qui résume le papier original et notre travail.</em>
+<br /> <em> article.pdf : Le rapport qui résume le papier original.</em>
